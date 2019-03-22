@@ -8,7 +8,7 @@ import org.hibernate.transform.AliasToBeanResultTransformer;
 
 /**
  * findByHsql时可以自定义返回实体类
- * @author b_wangpei
+ * @author guopeng
  *
  */
 public class Testtrans extends AliasToBeanResultTransformer{

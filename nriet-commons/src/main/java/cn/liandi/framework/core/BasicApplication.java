@@ -11,7 +11,7 @@ import cn.nriet.entity.SecurityEntity;
 
 /**
  * app基础类，实现此类即可完成oauth认证服务，仅供内部boot鉴权
- * @author b_wangpei
+ * @author guopeng
  *
  */
 @EnableScheduling

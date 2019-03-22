@@ -24,7 +24,7 @@ import cn.liandi.framework.util.Testtrans;
 /**
  * JpaServices
  * 
- * @author b_wangpei
+ * @author guopeng
  *
  * @param <T>
  *            服务对应的实体类型

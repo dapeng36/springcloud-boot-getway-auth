@@ -24,7 +24,7 @@ import cn.nriet.entity.User;
 
 /**
  * for RestAPi
- * @author b_wangpei
+ * @author guopeng
  *
  */
 public abstract class BasicService<T> {
